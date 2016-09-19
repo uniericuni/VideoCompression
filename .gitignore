@@ -1,4 +1,2 @@
-resource/*
-output/*
 *.pdf
 *.o
